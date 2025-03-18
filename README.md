@@ -5,12 +5,12 @@
 
 <h1 align="center"> Amigo Secreto </h1>
 
-<em> # Descripción: </em>
+<em>Descripción: </em>
 
 Este proyecto es una aplicación para realizar un juego de "Amigo Secreto". 
 Permite a los usuarios agregar nombres y realizar un sorteo para asignar a cada participante su amigo secreto.
 
-<em> #Funcionalidades: </em>
+<em>Funcionalidades: </em>
 
 Agregar Participantes: Permite a los usuarios ingresar los nombres de los participantes.
 
@@ -18,7 +18,7 @@ Realizar Sorteo: Genera aleatoriamente las asignaciones de amigos secretos.
 
 Visualizar Resultados: Muestra quién es el amigo secreto de cada participante.
 
-<em> #Agregar Participantes: </em>
+<em>Agregar Participantes: </em>
 
 Escribe un nombre tal como se muestra en la imagen.
 <img width="1071" alt="Screen Shot 2025-03-17 at 21 50 41" src="https://github.com/user-attachments/assets/7f65470f-a3d0-4168-abf2-8b6c0772586f" />
@@ -36,7 +36,7 @@ Haz clic en el botón Sortear amigo y te mostrará un !Felicidades 'nombre' eres
 
 
 
-<em> # Problemas Comunes: </em>
+<em>Problemas Comunes: </em>
 
 Error al agregar participantes: Asegúrate de agregar los nombres uno por uno y dar clic en el botón Añadir cada vez que agregues un nombre.
 
@@ -45,12 +45,12 @@ En caso de no agregar nombres y dar clic en Añadir se mostrará una alerta Debe
 Si no hay nombres agregados va a mostrar un alerta que No hay amigos para sortear.
 
 
-<em> #Requisitos: </em>
+<em>Requisitos: </em>
 
 Para ver y editar el código de este proyecto, se recomienda utilizar Visual Studio Code. 
 Este editor de código es fácil de usar y proporciona herramientas útiles para el desarrollo.
 
-<em> # Instrucciones: </em>
+<em>Instrucciones: </em>
 
 Descarga e instala Visual Studio Code desde su sitio oficial https://code.visualstudio.com/.
 
